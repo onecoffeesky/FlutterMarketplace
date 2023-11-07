@@ -1,0 +1,36 @@
+{
+    "shoes": {
+      "101": {
+        "name": "Playera Aeropostale",
+        "pic": "https://m.media-amazon.com/images/I/41qJp2M4PWL._AC_SY580_.jpg",
+        "price": "90 USD"
+      },
+      "102": {
+        "name": "Sudadera Jordan",
+        "pic": "https://www.innovasport.com/medias/sudadera-jordan-essentials-is-95C513-R78-1.jpg?context=bWFzdGVyfGltYWdlc3w1NjI1NHxpbWFnZS9qcGVnfGltYWdlcy9oMTkvaDhhLzEyMTQzNzcxNTQ5NzI2LmpwZ3xkYjQ3NTQxNmE3ODBlNzQ3Y2Y4MzZmMjM0YjFjNDFlZjNlN2U3OGE0MDIyOTA0MjE3YjFiYjAwOWIxOTE1ODg1",
+        "price": "299 USD"
+      }
+    },
+    "upperbody": {
+      "001": {
+        "name": "Nike Air Force",
+        "pic": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/calzado-air-force-1-07-rWtqPn.png",
+        "price": "1999 USD"
+      },
+      "002": {
+        "name": "Converse",
+        "pic": "https://cdn1.coppel.com/images/catalog/pr/8300062-1.jpg",
+        "price": "1849 USD"
+      },
+      "003": {
+        "name": "Playera CCP",
+        "pic": "https://http2.mlstatic.com/D_NQ_NP_944340-MLM47588025260_092021-O.webp",
+        "price": "190 USD"
+      },
+      "004": {
+        "name": "Sudadera Adidas",
+        "pic": "https://assets.adidas.com/images/w_600,f_auto,q_auto/bc365e4b823146c39befa95101256107_9366/Sudadera_con_Gorro_Trifolio_UNISEX_Negro_DV2870_01_laydown.jpg",
+        "price": "199 USD"
+      }
+    }
+  }
